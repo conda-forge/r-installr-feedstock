@@ -1,11 +1,11 @@
-About r-installr
-================
+About r-installr-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-installr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://talgalili.github.io/installr/, https://github.com/talgalili/installr/, https://www.r-statistics.com/tag/installr/
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-installr-feedstock/blob/main/LICENSE.txt)
 
 Summary: R is great for installing software.  Through the 'installr' package you can automate the updating of R (on Windows, using updateR()) and install new software. Software installation is initiated through a GUI (just run installr()), or through functions such as: install.Rtools(), install.pandoc(), install.git(), and many more. The updateR() command performs the following: finding the latest R version, downloading it, running the installer, deleting the installation file, copy and updating old packages to the new R installation.
 
